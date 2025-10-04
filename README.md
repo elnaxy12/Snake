@@ -6,21 +6,21 @@ Tampilan game over dilengkapi tombol **Mulai Lagi** dan **Keluar** dengan efek h
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 
-### 🎮 Gameplay
+### Gameplay
 <p align="center">
   <img src="screenshot_gameplay.jpg" width="400" alt="Gameplay Screenshot">
 </p>
 
-### 💀 Game Over Screen
+### Game Over Screen
 <p align="center">
   <img src="screenshot_gameover.jpg" width="400" alt="Game Over Screenshot">
 </p>
 
 ---
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 
 ```bash
 # 1. Clone repository
