@@ -10,15 +10,13 @@ Tampilan game over dilengkapi tombol **Mulai Lagi** dan **Keluar** dengan efek h
 
 ### 🎮 Gameplay
 <p align="center">
-  <img src="screenshot_gameplay.png" width="600" alt="Gameplay Screenshot">
+  <img src="screenshot_gameplay.jpg" width="600" alt="Gameplay Screenshot">
 </p>
 
 ### 💀 Game Over Screen
 <p align="center">
-  <img src="screenshot_gameover.png" width="600" alt="Game Over Screenshot">
+  <img src="screenshot_gameover.jpg" width="600" alt="Game Over Screenshot">
 </p>
-
-> 💡 Simpan kedua gambar di folder `assets/` agar tautan di atas berfungsi.
 
 ---
 
