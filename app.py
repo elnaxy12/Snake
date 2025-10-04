@@ -119,7 +119,10 @@ def game_over_screen(score):
 
 # -------------------- GAME FUNCTION --------------------
 def main():
-    snake = [(5, 7)]
+    snake = [
+        (GRID_WIDTH // 2, GRID_HEIGHT // 2),       
+        (GRID_WIDTH // 2 - 1, GRID_HEIGHT // 2)    
+    ]
     direction = (1, 0)
     grow_snake = False
     started = False
