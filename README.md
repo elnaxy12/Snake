@@ -23,7 +23,7 @@ Tampilan game over dilengkapi tombol **Mulai Lagi** dan **Keluar** dengan efek h
 ## Cara Menjalankan
 
 ```bash
-# 1. Clone repository
+# 1. Clone repository / Install Folder
 git clone https://github.com/elnaxy12/Snake
 cd Snake
 
